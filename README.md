@@ -1,4 +1,5 @@
 # Pet Shelter Practice Project
+Project status: Main branch ready.
 
 ## Project Overview
 
