@@ -35,3 +35,6 @@ python3 main.py
 * Display all pets currently in the shelter.
 * Find a pet by name.
 * Celebrate a pet's birthday.
+* Detect senior pets that are 8 years old or older.
+* Count the number of pets currently in the shelter.
+* Adopt a pet by name and remove it from the shelter.
