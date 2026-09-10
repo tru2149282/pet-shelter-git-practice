@@ -24,3 +24,7 @@ class Shelter:
             if pet.name.lower() == name.lower():
                 return pet
         return None
+
+    def pet_count(self) -> int:
+        """Return the number of pets in the shelter."""
+        return len(self.pets)
