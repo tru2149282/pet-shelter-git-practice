@@ -13,12 +13,15 @@ def main() -> None:
 
     print(f"Welcome to {shelter.name}!")
     for description in shelter.list_pets():
-        print(f"- {description}")
+        print(f"- {description} ") 
 
     selected_pet = shelter.find_pet("Luna")
     if selected_pet is not None:
         print(selected_pet.celebrate_birthday())
-
+        if  selected_pet.is_senior():
+            print(f"{selected_pet.name} is a senior pet!")
+       
+        
 
 if __name__ == "__main__":
     main()
