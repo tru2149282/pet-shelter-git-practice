@@ -35,6 +35,3 @@ python3 main.py
 * Display all pets currently in the shelter.
 * Find a pet by name.
 * Celebrate a pet's birthday.
-
-
-Temporary training note.
