@@ -1,4 +1,5 @@
 # Pet Shelter Practice Project
+Project status: Adoption workflow complete.
 
 ## Project Overview
 
